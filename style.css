@@ -11,6 +11,26 @@ body{
     height:100%;
 }
 
+/*============= HOME PAGE =============/*
+
+/*============= HOME PAGE MENU =============/*
+
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+
+color: black;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+border: 5px solid black;
+
+display: block;
+margin:auto
+margin-bottom: 10ox;
+width: 80%;
+
+
 .body-home{
     background-image: Url("images/background-01-port.png");
     background-position: center;
@@ -151,7 +171,7 @@ input[type=checkbox]: checked + label:before {
 /*============= RECIPE PAGE =============/*
 
 #recipe{
-    padding-top: 50px;s
+    padding-top: 50px;
 }
 
 /*======= RECIPE DETAILS ========/*
