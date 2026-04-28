@@ -132,7 +132,7 @@ input[type=checkbox]: checked + label:before {
      font-size: 15px;
      font-style: italic;
      color: #4d4d4d;
-     margin-top: 7px;
+     margin-top: auto;
      padding-left: 10px;
 
 
