@@ -11,22 +11,6 @@ body{
     height:100%;
 }
 
-.home-menu-item{
-    text-decoration: none;
-    text-transform: uppercase;
-
-color: black;
-font-size: 25px;
-font-weight: bold;
-text-align: center;
-border: 5px solid black;
-
-display: block;
-margin:auto
-margin-bottom: 10px;
-width: 80%;
-}
-
 
 .body-home{
     background-image: Url("images/background-01-port.png");
