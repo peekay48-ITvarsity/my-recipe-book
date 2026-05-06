@@ -131,7 +131,7 @@ input[type=checkbox] checked + label:before {
      font-size: 15px;
      font-style: italic;
      color: #4d4d4d;
-     margin-top:auto;
+     margin-top: -7px;
      padding-left: 10px;
 }
 
@@ -148,7 +148,7 @@ recipe-details h1{
     text-align: center;
     border: 5px solid #1a1a1a;
     margin: 10px;
-    padding: 
+    padding: 5px;
 } 
 
 .recipe-details h2{
