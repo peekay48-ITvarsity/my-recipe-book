@@ -180,3 +180,7 @@ recipe-details h1{
 .recipe-details-steps ol{
     padding-left: 28px;
 }
+
+@media only screen and (min-width: 1000px) {
+
+}
